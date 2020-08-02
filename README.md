@@ -9,6 +9,8 @@ Age of Empires oyunu içerisindeki 4 oyuncunun oyun içi verileri http://operati
 Girilen oyuncu adına göre program o oyuncunun oyun içerisindeki skorlarını hesaplar ve çıktı olarak verir.
 pyQt5 ile arayüz tasarımı denenmiş fakat daha önce yapılmadığı için tamamlanamamıştır.
 
+***project.py üzerinden gerekli kodlamalara ulaşabilirsiniz.***
+
 Saygılarımla.
 
 Elektrik Elektronik Mühendisi
